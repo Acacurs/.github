@@ -1,10 +1,6 @@
 # Acacurs
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
 ![Acacurs image presentation](https://github.com/Acacurs/.github/blob/main/images/acacurs_presentation2.png?raw=true)
-
-
 
 Acacurs vous connecte au monde de l'éducation avec ses applications innovantes! 🌍🎓 Découvrez les derniers documents, cours et exercices pour améliorer votre enseignement et votre productivité. 🚀📊 Préparez-vous pour vos examens avec nos outils pratiques et efficaces! 💯
 
