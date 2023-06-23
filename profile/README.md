@@ -5,7 +5,7 @@
 Acacurs vous connecte au monde de l'éducation avec ses applications innovantes! 🌍🎓 Découvrez les derniers documents, cours et exercices pour améliorer votre enseignement et votre productivité. 🚀📊 Préparez-vous pour vos examens avec nos outils pratiques et efficaces! 💯
 
 [<img src="https://github.com/Acacurs/.github/blob/main/images/acacurs_appicon.png?raw=true" alt= "Acacurs icon" height="15">](https://play.google.com/store/apps/details?id=com.acacurs.android.acacurs)
-Application web https://acacurs-a86be.web.app
+Application web [acacurs.com](https://acacurs.com)
 
 # [<img src="https://github.com/Acacurs/.github/blob/main/images/acacurs_appicon.png?raw=true" alt= "Acacurs icon" height="25">](https://play.google.com/store/apps/details?id=com.acacurs.android.acacurs) Acacurs App
 
